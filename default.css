@@ -423,8 +423,9 @@
 	{
 		margin-top: 3em;
 		background: #dd1c2d !important;
-		width: 100px;
-		height: 60px;
+		width: 10px;
+		height: 100px;
+		border-radius: 100px;
 	}
 
 /*********************************************************************************/
